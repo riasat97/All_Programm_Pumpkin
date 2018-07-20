@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1532110476 source:d:\installed\codeblocks\ict\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<math.h>
+	<limits.h>
+

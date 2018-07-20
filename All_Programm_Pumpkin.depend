@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523887220 source:d:\installed\codeblocks\all_programm_pumpkin\main.c
+	<stdio.h>
+	<string.h>
+
